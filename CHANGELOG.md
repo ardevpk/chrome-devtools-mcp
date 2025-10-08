@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.7.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.6.1...chrome-devtools-mcp-v0.7.0) (2025-10-08)
+
+
+### Features
+
+* add request and response body ([#267](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/267)) ([dd3c143](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/dd3c14336ee44d057d06231a5bfd5c5bcf661029))
+
+
+### Bug Fixes
+
+* publishing to MCP registry ([#313](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/313)) ([1faec78](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/1faec78f84569a03f63585fb84df35992bcfe81a))
+* use default ProtocolTimeout ([#315](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/315)) ([a525f19](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/a525f199458afb266db4540bf0fa8007323f3301))
+
 ## [0.6.1](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.6.0...chrome-devtools-mcp-v0.6.1) (2025-10-07)
 
 
